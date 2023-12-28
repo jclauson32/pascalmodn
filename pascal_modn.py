@@ -1,3 +1,5 @@
+## AUTHOR: JOSEPH CLAUSON 2023############
+##########################################
 import tkinter as tk
 
 def create_grid(canvas, size_canvas, step):
